@@ -6,8 +6,11 @@ body {
   font-weight: 300;
 }
 header {
-  margin-top: 2%;
+  margin-top: 1%;
 }
+/*.hero-img {
+    max-width: 80%;
+}*/
 h1,
 h2,
 h3,
@@ -35,7 +38,10 @@ a {
   font-size: 2em;
 }
 section {
-  margin-top: 2.5%;
+  margin-top: 1%;
+}
+.principles {
+  list-style-type: none;
 }
 footer {
   margin-top: 2%;
